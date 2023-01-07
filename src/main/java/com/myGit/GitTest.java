@@ -1,3 +1,4 @@
+
 package com.myGit;
 
 public class GitTest {
@@ -8,5 +9,6 @@ public class GitTest {
         System.out.println("冲突222");
         System.out.println("pushTest");
         System.out.println("pushTestSSH");
+        System.out.println("pullTest");
     }
 }
